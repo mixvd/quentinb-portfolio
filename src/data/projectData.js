@@ -12,10 +12,11 @@ export const projectData = {
       <p>RESONANCE. NETWORK (also known as Project : Résonance) is a creative community dedicated to immersive roleplay (RP) gaming experiences across multiple universes.</p>
       <ul>
         <li>Vue.js 3 with Composition API</li>
-        <li>Nuxt.js for SSR and routing</li>
         <li>TypeScript for type safety</li>
-        <li>Prisma ORM with PostgreSQL</li>
         <li>Real-time collaboration features</li>
+        <li>Discord API integration</li>
+        <li>PHP backend services</li>
+        <li>MySQL database</li>
       </ul>
     `,
     githubUrl: 'https://github.com/RESONANCE-NETWORK',
@@ -36,9 +37,8 @@ export const projectData = {
       <ul>
         <li>React with Redux Toolkit</li>
         <li>Node.js with Express</li>
-        <li>MongoDB with Mongoose</li>
-        <li>Stripe payment integration</li>
-        <li>JWT authentication</li>
+        <li>CSS3 with modern features</li>
+        <li>Responsive design principles</li>
       </ul>
     `,
     githubUrl: 'https://github.com/mixvd/mxd-portfolio',
