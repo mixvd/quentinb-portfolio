@@ -1620,8 +1620,7 @@ footer p {
 }
 
 /* Modals */
-.modal,
-.purchase-modal {
+.modal {
     position: fixed;
     top: 0;
     left: 0;
@@ -1638,8 +1637,7 @@ footer p {
     backdrop-filter: blur(10px);
 }
 
-.modal.active,
-.purchase-modal.active {
+.modal.active {
     opacity: 1;
     visibility: visible;
 }
@@ -1989,29 +1987,6 @@ footer p {
     margin-right: 5px;
 }
 
-.purchase-details {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-}
-
-.purchase-plugin-name h4 {
-    font-size: 1.3rem;
-    margin-bottom: 5px;
-    color: var(--text-color);
-}
-
-.purchase-price {
-    font-size: 1.1rem;
-    font-weight: 600;
-    color: var(--primary-color);
-    margin-bottom: 20px;
-}
-
-.purchase-info {
-    margin-bottom: 25px;
-}
-
 .contact-methods {
     list-style-type: none;
     padding: 20px 0;
@@ -2032,22 +2007,6 @@ footer p {
     color: var(--primary-color);
     font-size: 1.2rem;
     width: 20px;
-}
-
-.purchase-note {
-    font-size: 0.95rem;
-    padding: 15px;
-    background-color: var(--background-alt);
-    border-left: 4px solid var(--primary-color);
-    border-radius: 0 var(--border-radius) var(--border-radius) 0;
-    margin-top: 15px;
-}
-
-.purchase-actions {
-    display: flex;
-    gap: 15px;
-    justify-content: flex-end;
-    margin-top: 20px;
 }
 
 .contact-methods li:before {
@@ -2144,7 +2103,7 @@ footer p {
         display: none;
     }
 
-    #plugins {
+    #projects {
         opacity: 1 !important;
         transform: translateY(0) !important;
     }
