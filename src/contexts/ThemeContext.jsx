@@ -12,13 +12,18 @@ export const useTheme = () => {
 
 export const ThemeProvider = ({ children }) => {
   const [isDarkMode, setIsDarkMode] = useState(() => {
-    const savedTheme = localStorage.getItem('darkMode') === 'true';
-    if (savedTheme) {
+    const savedTheme = localStorage.getItem('darkMode');
+    if (savedTheme === null) {
+      document.body.classList.add('dark-mode');
+      return true;
+    }
+    const isDark = savedTheme === 'true';
+    if (isDark) {
       document.body.classList.add('dark-mode');
     } else {
       document.body.classList.remove('dark-mode');
     }
-    return savedTheme;
+    return isDark;
   });
 
   useEffect(() => {

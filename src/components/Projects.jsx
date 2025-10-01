@@ -7,7 +7,7 @@ const Projects = ({ onViewDetails }) => {
 
   const handleProjectClick = (project) => {
     if (project.status === 'coming-soon') {
-      return; // Don't open modal for coming soon projects
+      return;
     }
     onViewDetails(project.id);
   };
