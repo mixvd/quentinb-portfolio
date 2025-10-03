@@ -5,8 +5,8 @@ export const experiencesData = [
     company: "RESONANCE. NETWORKS",
     period: "2022 - Present",
     location: "Remote",
-    description: "Leading technical strategy and development initiatives for the network infrastructure. Overseeing system architecture, team management, and technological innovation across multiple projects.",
-    technologies: ["Leadership", "System Architecture", "Team Management", "Strategic Planning", "Technical Innovation"],
+    description: "Leading technical development for a creative Garry's Mod roleplay community focused on immersive RP experiences. Overseeing custom server development, narrative-rich environments, and systems that enhance player agency and emergent storytelling across multiple universes including Half-Life: Alyx RP and SCP Roleplay.",
+    technologies: ["Garry's Mod", "Lua Development", "Server Architecture", "Community Management", "Game Design", "Leadership"],
     type: "work"
   },
   {
