@@ -7,6 +7,7 @@ import Hero from './components/Hero';
 import Projects from './components/Projects';
 import About from './components/About';
 import Skills from './components/Skills';
+import Experiences from './components/Experiences';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import ProjectModal from './components/ProjectModal';
@@ -29,7 +30,7 @@ function App() {
   useEffect(() => {
     if (isLoading) return;
 
-    const sections = ['home', 'projects', 'skills', 'about', 'contact'];
+    const sections = ['home', 'projects', 'skills', 'experiences', 'about', 'contact'];
     const sectionElements = sections.map(id => document.getElementById(id)).filter(Boolean);
     
     let currentSection = 'home';
@@ -81,6 +82,7 @@ function App() {
             onViewDetails={handleViewDetails}
           />
           <Skills />
+          <Experiences />
           <About />
           <Contact />
         </main>
