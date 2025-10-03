@@ -33,7 +33,7 @@ export const experiencesData = [
 
 export const experienceTypes = {
   work: {
-    title: "Experience",
+    title: "Online Experience",
     icon: "fas fa-briefcase",
     color: "#4CAF50"
   },
