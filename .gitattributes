@@ -1,6 +1,7 @@
 # React files as JavaScript or TypeScript
-*.jsx linguist-language=JavaScript
+*.jsx linguist-language=React
 *.tsx linguist-language=TypeScript
+*.css linguist-language=JavaScript
 
 # Ignore build and dependency folders from language stats
 build/* linguist-vendored
