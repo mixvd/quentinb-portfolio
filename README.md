@@ -10,17 +10,11 @@ Welcome to my portfolio! Here you'll find a collection of my projects, skills, a
 
 ## 🛠️ Tech Stack
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/mixvd/quentinb-portfolio?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/mixvd/quentinb-portfolio?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/mixvd/quentinb-portfolio?style=flat-square)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/mixvd/quentinb-portfolio?style=flat-square)
-![GitHub License](https://img.shields.io/github/license/mixvd/quentinb-portfolio?style=flat-square)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/mixvd/quentinb-portfolio?style=flat-square)
-![GitHub Languages](https://img.shields.io/github/languages/top/mixvd/quentinb-portfolio?style=flat-square)
-![GitHub Language Count](https://img.shields.io/github/languages/count/mixvd/quentinb-portfolio?style=flat-square)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/mixvd/quentinb-portfolio?style=flat-square)
-![GitHub Contributors](https://img.shields.io/github/contributors/mixvd/quentinb-portfolio?style=flat-square)
-![GitHub Release](https://img.shields.io/github/v/release/mixvd/quentinb-portfolio?style=flat-square)
+![React](https://img.shields.io/badge/-React-61DBFB?logo=react&logoColor=black&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7E017?logo=javascript&logoColor=black&style=for-the-badge)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-181717?logo=github&logoColor=white&style=for-the-badge)
 
 ## ✨ Features
 
