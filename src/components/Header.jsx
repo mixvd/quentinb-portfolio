@@ -96,7 +96,7 @@ const Header = ({ activeSection, onNavClick }) => {
           <a href="https://github.com/quentinb" target="_blank" rel="noopener noreferrer">
             <i className="fab fa-github"></i>
           </a>
-          <a href="https://discord.com/users/mixvd" target="_blank" rel="noopener noreferrer">
+          <a href="https://discord.com/users/264147356113436683" target="_blank" rel="noopener noreferrer">
             <i className="fab fa-discord"></i>
           </a>
         </div>
